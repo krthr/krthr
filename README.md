@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Go, Crystal and ML
-- ⚡ Fun fact: I love poetry (write, read)
+- ⚡ Fun fact: I love poetry (write, read) and photography
 
 <!--
 **krthr/krthr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
