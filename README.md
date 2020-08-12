@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Wilson's stats](https://github-readme-stats.vercel.app/api?username=krthr&show_icons=true&count_private=true&show_owner=true&theme=graywhite)
+
 - 🌱 I’m currently learning Go, Crystal and ML
 - 💬 Ask me about Colombia 🥰 
 - 📫 How to reach me: email ;)
