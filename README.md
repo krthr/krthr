@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
+
+![](https://komarev.com/ghpvc/?username=krthr)
+
