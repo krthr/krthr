@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=krthr)
+![Visitantes](https://visitor-badge.glitch.me/badge?page_id=github_krthr)
 
+
+## 🔥 Recent activity
+
+<!--START_SECTION:activity-->
