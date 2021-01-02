@@ -9,7 +9,7 @@
 
 <p align="center">
   <img 
-    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=krthr&skills=Javascript,TypeScript,Python,Ruby,Vue,CSS,HTML"
+    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=krthr&skills=Javascript,TypeScript,Python,Ruby,Vue,CSS,HTML&bg=transparent"
     width="100%"
   />
 </p>
