@@ -8,17 +8,20 @@
 ## 👀 Stats
 
 
-  <img 
-    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=krthr&skills=Javascript,TypeScript,Python,Ruby,Vue,CSS,HTML&bg=transparent"
-    style="width: 50%"
-    width="50%"
-  />
-  
+  <p align="center">
   <img 
     src="http://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=krthr&badges=3&show-avatar=true&style=--border-radius:10px"
-    style="width: 50%"
     width="50%"
   />
+  </p>
+
+  <p align="center">
+  <img 
+    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=krthr&skills=Javascript,TypeScript,Python,Ruby,Vue,CSS,HTML&bg=transparent"
+    width="80%"
+  />
+  </p>
+  
 
 
 ![Wilson's stats](https://github-readme-stats.vercel.app/api?username=krthr&show_icons=true&count_private=true&show_owner=true&theme=graywhite)
