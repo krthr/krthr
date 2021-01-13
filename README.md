@@ -35,8 +35,8 @@
 ## 🔥 Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5196](https://github.com/docker/for-mac/issues/5196) in [docker/for-mac](https://github.com/docker/for-mac)
-2. 🗣 Commented on [#83](https://github.com/th-ch/youtube-music/issues/83) in [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
+1. ❗️ Opened issue [#543](https://github.com/JessicaLim8/JessicaLim8/issues/543) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+2. 🗣 Commented on [#5196](https://github.com/docker/for-mac/issues/5196) in [docker/for-mac](https://github.com/docker/for-mac)
 3. 🗣 Commented on [#83](https://github.com/th-ch/youtube-music/issues/83) in [th-ch/youtube-music](https://github.com/th-ch/youtube-music)
 4. 🎉 Merged PR [#8](https://github.com/sjdonado/ask-me/pull/8) in [sjdonado/ask-me](https://github.com/sjdonado/ask-me)
 <!--END_SECTION:activity-->
