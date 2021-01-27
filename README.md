@@ -35,8 +35,8 @@
 ## 🔥 Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/Cronun/cronun/issues/4) in [Cronun/cronun](https://github.com/Cronun/cronun)
-2. 🗣 Commented on [#13](https://github.com/Cronun/cronun/issues/13) in [Cronun/cronun](https://github.com/Cronun/cronun)
-3. 🗣 Commented on [#13](https://github.com/Cronun/cronun/issues/13) in [Cronun/cronun](https://github.com/Cronun/cronun)
-4. ❗️ Opened issue [#543](https://github.com/JessicaLim8/JessicaLim8/issues/543) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+1. ❗️ Closed issue [#3](https://github.com/Cronun/cronun/issues/3) in [Cronun/cronun](https://github.com/Cronun/cronun)
+2. ❗️ Closed issue [#10](https://github.com/Cronun/cronun/issues/10) in [Cronun/cronun](https://github.com/Cronun/cronun)
+3. ❗️ Closed issue [#9](https://github.com/Cronun/cronun/issues/9) in [Cronun/cronun](https://github.com/Cronun/cronun)
+4. ❗️ Closed issue [#2](https://github.com/Cronun/cronun/issues/2) in [Cronun/cronun](https://github.com/Cronun/cronun)
 <!--END_SECTION:activity-->
