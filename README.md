@@ -35,8 +35,8 @@
 ## 🔥 Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Cronun/cronun/issues/3) in [Cronun/cronun](https://github.com/Cronun/cronun)
-2. ❗️ Closed issue [#10](https://github.com/Cronun/cronun/issues/10) in [Cronun/cronun](https://github.com/Cronun/cronun)
-3. ❗️ Closed issue [#9](https://github.com/Cronun/cronun/issues/9) in [Cronun/cronun](https://github.com/Cronun/cronun)
-4. ❗️ Closed issue [#2](https://github.com/Cronun/cronun/issues/2) in [Cronun/cronun](https://github.com/Cronun/cronun)
+1. ❗️ Opened issue [#4](https://github.com/krthr/uuix/issues/4) in [krthr/uuix](https://github.com/krthr/uuix)
+2. ❗️ Closed issue [#2](https://github.com/krthr/uuix/issues/2) in [krthr/uuix](https://github.com/krthr/uuix)
+3. 🎉 Merged PR [#3](https://github.com/krthr/uuix/pull/3) in [krthr/uuix](https://github.com/krthr/uuix)
+4. 🗣 Commented on [#3](https://github.com/krthr/uuix/issues/3) in [krthr/uuix](https://github.com/krthr/uuix)
 <!--END_SECTION:activity-->
