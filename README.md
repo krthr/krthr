@@ -35,8 +35,8 @@
 ## 🔥 Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/krthr/uuix/issues/4) in [krthr/uuix](https://github.com/krthr/uuix)
-2. ❗️ Closed issue [#2](https://github.com/krthr/uuix/issues/2) in [krthr/uuix](https://github.com/krthr/uuix)
-3. 🎉 Merged PR [#3](https://github.com/krthr/uuix/pull/3) in [krthr/uuix](https://github.com/krthr/uuix)
-4. 🗣 Commented on [#3](https://github.com/krthr/uuix/issues/3) in [krthr/uuix](https://github.com/krthr/uuix)
+1. 🎉 Merged PR [#15](https://github.com/sjdonado/ask-me/pull/15) in [sjdonado/ask-me](https://github.com/sjdonado/ask-me)
+2. 🎉 Merged PR [#13](https://github.com/sjdonado/ask-me/pull/13) in [sjdonado/ask-me](https://github.com/sjdonado/ask-me)
+3. 🎉 Merged PR [#14](https://github.com/sjdonado/ask-me/pull/14) in [sjdonado/ask-me](https://github.com/sjdonado/ask-me)
+4. ❗️ Opened issue [#4](https://github.com/krthr/uuix/issues/4) in [krthr/uuix](https://github.com/krthr/uuix)
 <!--END_SECTION:activity-->
