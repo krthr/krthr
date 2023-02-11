@@ -30,13 +30,3 @@
 
 
 ![Visitantes](https://visitor-badge.glitch.me/badge?page_id=github_krthr)
-
-
-## 🔥 Recent activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/krthr/krthr.dev/pull/3) in [krthr/krthr.dev](https://github.com/krthr/krthr.dev)
-2. 🎉 Merged PR [#2](https://github.com/krthr/krthr.dev/pull/2) in [krthr/krthr.dev](https://github.com/krthr/krthr.dev)
-3. 🎉 Merged PR [#1](https://github.com/krthr/krthr.dev/pull/1) in [krthr/krthr.dev](https://github.com/krthr/krthr.dev)
-4. 🎉 Merged PR [#15](https://github.com/sjdonado/ask-me/pull/15) in [sjdonado/ask-me](https://github.com/sjdonado/ask-me)
-<!--END_SECTION:activity-->
