@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Go, Crystal and ML
+- 😎 Software Developer Engineer @ Amazon / Madrid, Spain
+- 🌱 I’m currently learning GPT3, ML & Crystal
 - 💬 Ask me about Colombia 🥰 
 - 📫 How to reach me: email ;)
 - ⚡ Fun fact: I love poetry (write, read) and photography
 
 ## 👀 Stats
-
 
   <p align="center">
   <img 
